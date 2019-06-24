@@ -1,0 +1,7 @@
+C:\Users\TOBIASZ\source\repos\Lab01\ProjektWsadowylekcja2\bin\Debug\ProjektWsadowylekcja2.exe.config
+C:\Users\TOBIASZ\source\repos\Lab01\ProjektWsadowylekcja2\bin\Debug\ProjektWsadowylekcja2.exe
+C:\Users\TOBIASZ\source\repos\Lab01\ProjektWsadowylekcja2\bin\Debug\ProjektWsadowylekcja2.pdb
+C:\Users\TOBIASZ\source\repos\Lab01\ProjektWsadowylekcja2\obj\Debug\ProjektWsadowylekcja2.csprojAssemblyReference.cache
+C:\Users\TOBIASZ\source\repos\Lab01\ProjektWsadowylekcja2\obj\Debug\ProjektWsadowylekcja2.csproj.CoreCompileInputs.cache
+C:\Users\TOBIASZ\source\repos\Lab01\ProjektWsadowylekcja2\obj\Debug\ProjektWsadowylekcja2.exe
+C:\Users\TOBIASZ\source\repos\Lab01\ProjektWsadowylekcja2\obj\Debug\ProjektWsadowylekcja2.pdb
