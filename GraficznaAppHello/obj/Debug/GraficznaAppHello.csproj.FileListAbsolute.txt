@@ -1,0 +1,10 @@
+C:\Users\TOBIASZ\source\repos\Lab01\GraficznaAppHello\bin\Debug\GraficznaAppHello.exe.config
+C:\Users\TOBIASZ\source\repos\Lab01\GraficznaAppHello\bin\Debug\GraficznaAppHello.exe
+C:\Users\TOBIASZ\source\repos\Lab01\GraficznaAppHello\bin\Debug\GraficznaAppHello.pdb
+C:\Users\TOBIASZ\source\repos\Lab01\GraficznaAppHello\obj\Debug\GraficznaAppHello.csprojAssemblyReference.cache
+C:\Users\TOBIASZ\source\repos\Lab01\GraficznaAppHello\obj\Debug\GraficznaAppHello.Form1.resources
+C:\Users\TOBIASZ\source\repos\Lab01\GraficznaAppHello\obj\Debug\GraficznaAppHello.Properties.Resources.resources
+C:\Users\TOBIASZ\source\repos\Lab01\GraficznaAppHello\obj\Debug\GraficznaAppHello.csproj.GenerateResource.cache
+C:\Users\TOBIASZ\source\repos\Lab01\GraficznaAppHello\obj\Debug\GraficznaAppHello.csproj.CoreCompileInputs.cache
+C:\Users\TOBIASZ\source\repos\Lab01\GraficznaAppHello\obj\Debug\GraficznaAppHello.exe
+C:\Users\TOBIASZ\source\repos\Lab01\GraficznaAppHello\obj\Debug\GraficznaAppHello.pdb
