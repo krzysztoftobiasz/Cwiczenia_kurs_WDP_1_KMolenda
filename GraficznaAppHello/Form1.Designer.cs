@@ -55,6 +55,7 @@
             this.textBoxImie.Name = "textBoxImie";
             this.textBoxImie.Size = new System.Drawing.Size(100, 20);
             this.textBoxImie.TabIndex = 1;
+            this.textBoxImie.TextChanged += new System.EventHandler(this.textBoxImie_TextChanged);
             // 
             // LabelNazwisko
             // 
@@ -71,6 +72,7 @@
             this.textBoxNazwisko.Name = "textBoxNazwisko";
             this.textBoxNazwisko.Size = new System.Drawing.Size(100, 20);
             this.textBoxNazwisko.TabIndex = 3;
+            this.textBoxNazwisko.TextChanged += new System.EventHandler(this.textBoxNazwisko_TextChanged);
             // 
             // labelWiek
             // 

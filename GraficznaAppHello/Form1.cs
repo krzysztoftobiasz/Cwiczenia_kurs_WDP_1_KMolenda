@@ -43,6 +43,16 @@ namespace GraficznaAppHello
                 labelKomunikat2.Text = "Jesteś emerytem";
             }
         }
+
+        private void textBoxImie_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBoxNazwisko_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
                 // DZIAŁA!!!!!!!!!!!!!!!!!!!!
