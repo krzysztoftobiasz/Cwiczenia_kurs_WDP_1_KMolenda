@@ -1,0 +1,15 @@
+C:\Users\TOBIASZ\source\repos\Lab01\HelloWPFApp\bin\Debug\HelloWPFApp.exe.config
+C:\Users\TOBIASZ\source\repos\Lab01\HelloWPFApp\bin\Debug\HelloWPFApp.exe
+C:\Users\TOBIASZ\source\repos\Lab01\HelloWPFApp\bin\Debug\HelloWPFApp.pdb
+C:\Users\TOBIASZ\source\repos\Lab01\HelloWPFApp\obj\Debug\HelloWPFApp.csprojAssemblyReference.cache
+C:\Users\TOBIASZ\source\repos\Lab01\HelloWPFApp\obj\Debug\MainWindow.g.cs
+C:\Users\TOBIASZ\source\repos\Lab01\HelloWPFApp\obj\Debug\App.g.cs
+C:\Users\TOBIASZ\source\repos\Lab01\HelloWPFApp\obj\Debug\HelloWPFApp_MarkupCompile.cache
+C:\Users\TOBIASZ\source\repos\Lab01\HelloWPFApp\obj\Debug\HelloWPFApp_MarkupCompile.lref
+C:\Users\TOBIASZ\source\repos\Lab01\HelloWPFApp\obj\Debug\MainWindow.baml
+C:\Users\TOBIASZ\source\repos\Lab01\HelloWPFApp\obj\Debug\HelloWPFApp.g.resources
+C:\Users\TOBIASZ\source\repos\Lab01\HelloWPFApp\obj\Debug\HelloWPFApp.Properties.Resources.resources
+C:\Users\TOBIASZ\source\repos\Lab01\HelloWPFApp\obj\Debug\HelloWPFApp.csproj.GenerateResource.cache
+C:\Users\TOBIASZ\source\repos\Lab01\HelloWPFApp\obj\Debug\HelloWPFApp.csproj.CoreCompileInputs.cache
+C:\Users\TOBIASZ\source\repos\Lab01\HelloWPFApp\obj\Debug\HelloWPFApp.exe
+C:\Users\TOBIASZ\source\repos\Lab01\HelloWPFApp\obj\Debug\HelloWPFApp.pdb
